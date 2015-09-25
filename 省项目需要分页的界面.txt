@@ -1,4 +1,4 @@
-a.环检机构信息查询模块和车辆信息管理模块
+a.环检机构信息查询模块和车辆信息管理模块 呜呜呜呜呜
 1.环检机构信息查询  /EnvInsMehMana/List
 2.车辆信息管理      /CarInfoMana/List
 3.车型信息管理      /CarInfoMana/CarCatalogList
@@ -42,8 +42,7 @@ dw("vehicleTagNo").value,车牌号
 	    			dw("inspectPeriod").value,
 	    			dw("labelTypeName").value,
 	    			dw("vehicleType").value,车辆类型
-	    			dw("vehicleSn").value,
-
+	    			dw("vehicleSn").value,
 
 data.encryptVehicleinfo,
 								data.labelNo,
